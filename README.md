@@ -1,2 +1,2 @@
-# scam-website
+# trooled
 getscammedlosers
